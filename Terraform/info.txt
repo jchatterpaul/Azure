@@ -1,0 +1,10 @@
+The single.tf file contains all the required informatation to create resources on Azure.
+All the variables and configuration using those variables are included in one file.
+
+You need to replace :
+(EnterPasswodHere) with a unique password
+(EnterSubscriptionIDHere) with a valid subscription_id
+(EnterTenantIDHere) with a valid tenant_id
+
+
+*** remember you can run this all directly in the Azure CLI ***
