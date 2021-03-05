@@ -1,6 +1,0 @@
-Please make sure to enter the requested info in the "terraform.tfvars" file.
-Also, the "main.tf" file requires the username and password.  Replace EnterUserName and EnterPassword before running.  
-
-
-
-*** remember you can run this all directly in the Azure CLI ***
