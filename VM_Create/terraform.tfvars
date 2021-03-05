@@ -1,0 +1,6 @@
+subscriptionID = "EnterHere"
+location = "EnterHere"
+resourceGroupName = "EnterHere"
+tenantID = "EnterHere"
+networkName = "EnterHere"
+vmName = "EnterHere"
